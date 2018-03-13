@@ -1,0 +1,11 @@
+﻿  Math.cpp
+c:\scs\dllexample\dllexample\math.cpp(7): warning C4273: 'Add': inconsistent dll linkage
+  c:\scs\dllexample\dllexample\math.h(7): note: see previous definition of 'Add'
+c:\scs\dllexample\dllexample\math.cpp(12): warning C4273: 'Sub': inconsistent dll linkage
+  c:\scs\dllexample\dllexample\math.h(9): note: see previous definition of 'Sub'
+c:\scs\dllexample\dllexample\math.cpp(17): warning C4273: 'Mul': inconsistent dll linkage
+  c:\scs\dllexample\dllexample\math.h(11): note: see previous definition of 'Mul'
+c:\scs\dllexample\dllexample\math.cpp(22): warning C4273: 'Div': inconsistent dll linkage
+  c:\scs\dllexample\dllexample\math.h(13): note: see previous definition of 'Div'
+     Creating library C:\SCS\DLLExample\Debug\DLL.lib and object C:\SCS\DLLExample\Debug\DLL.exp
+LINK : fatal error LNK1561: entry point must be defined
