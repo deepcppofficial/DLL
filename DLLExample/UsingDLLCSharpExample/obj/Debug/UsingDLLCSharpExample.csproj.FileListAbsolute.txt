@@ -1,0 +1,5 @@
+C:\SCS\DLLExample\UsingDLLCSharpExample\bin\Debug\UsingDLLCSharpExample.exe.config
+C:\SCS\DLLExample\UsingDLLCSharpExample\bin\Debug\UsingDLLCSharpExample.exe
+C:\SCS\DLLExample\UsingDLLCSharpExample\bin\Debug\UsingDLLCSharpExample.pdb
+C:\SCS\DLLExample\UsingDLLCSharpExample\obj\Debug\UsingDLLCSharpExample.exe
+C:\SCS\DLLExample\UsingDLLCSharpExample\obj\Debug\UsingDLLCSharpExample.pdb

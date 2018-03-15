@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  UsingDLLRuntimeExample.cpp
+  Generating code
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UsingDLLRuntimeExample.vcxproj -> C:\SCS\DLLExample\x64\Release\UsingDLLRuntimeExample.exe

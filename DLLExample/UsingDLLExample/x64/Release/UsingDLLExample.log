@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  UsingDLLExample.cpp
+  Generating code
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UsingDLLExample.vcxproj -> C:\SCS\DLLExample\x64\Release\UsingDLLExample.exe

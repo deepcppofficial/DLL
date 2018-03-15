@@ -1,0 +1,9 @@
+﻿  MyMath.cpp
+MyMath.cpp(23): warning C4297: 'Div': function assumed not to throw an exception but does
+  MyMath.cpp(23): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+     Creating library C:\SCS\DLLExample\x64\Release\DLL.lib and object C:\SCS\DLLExample\x64\Release\DLL.exp
+  Generating code
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DLLExample.vcxproj -> C:\SCS\DLLExample\x64\Release\DLL.dll
+  DLLExample.vcxproj -> C:\SCS\DLLExample\x64\Release\DLL.pdb (Full PDB)

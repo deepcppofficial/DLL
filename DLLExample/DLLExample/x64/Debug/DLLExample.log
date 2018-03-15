@@ -1,0 +1,6 @@
+﻿  MyMath.cpp
+c:\scs\dllexample\dllexample\mymath.cpp(23): warning C4297: 'Div': function assumed not to throw an exception but does
+  c:\scs\dllexample\dllexample\mymath.cpp(23): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+     Creating library C:\SCS\DLLExample\x64\Debug\DLL.lib and object C:\SCS\DLLExample\x64\Debug\DLL.exp
+  DLLExample.vcxproj -> C:\SCS\DLLExample\x64\Debug\DLL.dll
+  DLLExample.vcxproj -> C:\SCS\DLLExample\x64\Debug\DLL.pdb (Partial PDB)
